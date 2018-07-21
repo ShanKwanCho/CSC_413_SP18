@@ -11,7 +11,7 @@ Materials covered ~
 Strategies ~ 
 -Debugging
 -Testing
--intro UI design/UX 
+-Intro UI design/UX 
 -problem solving
 
 Technique ~
