@@ -2,7 +2,8 @@
 Software Development Course
 
 Deep understanding of fundamentals software development
-Materials covered ~ 
+
+~ Materials covered ~ 
 -Software Design 
 -Software Maintenance 
 -Fundamental software structure
